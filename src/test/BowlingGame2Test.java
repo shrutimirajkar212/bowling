@@ -4,4 +4,9 @@ public class BowlingGame2Test{
     public void LisaTestFour(){
         
     }
+
+     @Test
+    public void LisaTestFive(){
+        
+    }
 }
