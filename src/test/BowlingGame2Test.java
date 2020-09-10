@@ -7,6 +7,13 @@ public class BowlingGame2Test{
 
      @Test
     public void LisaTestFive(){
-        //Bug
+        
+
+    }
+
+      @Test
+    public void LisaTestSix(){
+        
+        
     }
 }
