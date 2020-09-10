@@ -14,11 +14,16 @@ public class BowlingGame2Test{
       @Test
     public void LisaTestSix(){
         
-        
+
     }
 
-      @Test
-    public void LisaTestSeventh(){
+     @Test
+    public void LisaTestSeven(){
+        
+
+    }
+
+
         
         
     }
